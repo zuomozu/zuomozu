@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZUHAIR
 - 👀 I’m interested in MACHINE LEARNING
-- 🌱 I’m currently pursuing CSE
+- 🌱 I’m currently pursuing PG in Artificial Intelligence and Data Science 
 
 - 📫 zuhairmoinuddin@gmail.com , linkedIn zuhair-moinuddin
 
